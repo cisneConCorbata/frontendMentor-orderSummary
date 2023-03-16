@@ -42,7 +42,7 @@ Users should be able to:
 
 ### What I learned
 
-- How to use and dislay both color and images for the background.
+- How to use and display both color and images for the background.
 
 ### Useful resources
 
